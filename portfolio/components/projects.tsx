@@ -31,7 +31,7 @@ export function Projects() {
       image: "/placeholder.svg?height=300&width=500",
       technologies: ["Next.js", "TypeScript", "TailwindCSS", "Shadcn/ui", "Framer motion"],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/NimayDesai/portfolio",
     },
   ]
 
